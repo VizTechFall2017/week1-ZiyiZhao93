@@ -1,0 +1,23 @@
+#title{
+    background-color: darkcyan;
+    width: 100%;
+    height: 10%;
+}
+#hello{
+    background-color: aqua;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+#goodbay{
+    background-color: antiquewhite;
+    width: 50%;
+    height: 50%;
+    float: right;
+}
+p{
+    margin: 20px;
+}
+img{
+    width: 200px;
+}
